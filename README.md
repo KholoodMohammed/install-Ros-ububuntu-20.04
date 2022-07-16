@@ -1,6 +1,7 @@
 # install-Ros-ububuntu-20.04
 Learn how to install Ros notice on Ubuntu 20.04 using Visual Box with steps
-#Steps:
+
+# Steps:
 1. Download the visual box
 2. Download Ubuntu20.04
 Open visual box :
